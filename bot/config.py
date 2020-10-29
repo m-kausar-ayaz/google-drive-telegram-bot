@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1150493965:AAEgMHlfg214DBXKoY1P-SRnE405sjOc0tM"
+    APP_ID = "1838674"
+    API_HASH = "bc41aa449da2915663891af333172241"
+    DATABASE_URL = "postgres://khipekwxmdosbn:2a5ac355ac4a3c1727ea4562ee3670c8ef3f5dc3c9a67274c65911ca3a63298e@ec2-52-203-160-194.compute-1.amazonaws.com:5432/dc7326147ho57o"
+    SUDO_USERS = "1084037831" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
@@ -36,7 +36,7 @@ class Messages:
         "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
         
         # Dont remove this ↓ if you respect developer.
-        "**Developed by @viperadnan**"
+        "**Developed by @mkausarayaz**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
